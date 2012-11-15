@@ -1,5 +1,9 @@
 jquery.imgFit.js
 ======================
+Copyright (c) Devjam / SHIFTBRAIN INC.  
+Licensed under the MIT license.  
+https://github.com/devjam
+
 ## DEMO
 <http://devjam.github.com/jquery.imgFit.js/>
 

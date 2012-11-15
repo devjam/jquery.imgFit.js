@@ -1,5 +1,10 @@
 /*
 jquery.imgFit.js v.0.2
+
+Copyright (c) Devjam / SHIFTBRAIN INC.  
+Licensed under the MIT license.  
+https://github.com/devjam
+
 #option
 area:null(default:$(this).parent())
 maxWidth: null
